@@ -10,3 +10,7 @@ const addition=function(a,b){
 }
 console.log(addition(10,15))
 console.log("Arrow Function")
+const division=(a,b)=>{
+    return a/b
+}
+console.log(division(200,20))
